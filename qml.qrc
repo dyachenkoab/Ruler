@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>Point.qml</file>
-        <file>Map_.qml</file>
-    </qresource>
-</RCC>
